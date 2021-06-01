@@ -1,0 +1,31 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1{
+  font-size: 26px;
+}
+
+p{
+  font-size:13px;
+  line-height: 18px;
+  margin:33px;
+}
+
+a:webkit-any-link{
+  cursor:pointer;
+  text-decolation-line:underline;
+  color:webkit-link;
+}
+
+a{
+  color:black;
+}
+
+a:hover{
+  background-color:black;
+  color:white;
+}
+
+a:visited{
+  color:grey;
+}
